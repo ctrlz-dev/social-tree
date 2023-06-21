@@ -5,4 +5,4 @@ Foi meu primeiro projeto web Front-end criado sozinho, utilizando como base um l
 Demonstração da página concluída (ainda sem responsividade):
 ![Demonstração da Página Concluída](./assets/completed-project-demo.png)
 
-Link do layout utilizado como base: https://www.figma.com/community/file/1241119965004546666/Social-Tree-%E2%80%A2-Desafio-Discover
+Link do layout utilizado: https://www.figma.com/community/file/1241119965004546666/Social-Tree-%E2%80%A2-Desafio-Discover
